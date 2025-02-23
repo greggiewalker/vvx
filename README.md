@@ -1,2 +1,2 @@
 # vvx
-Poly VVX Deskphone Web App
+Poly VVX Deskphone Web App playground
